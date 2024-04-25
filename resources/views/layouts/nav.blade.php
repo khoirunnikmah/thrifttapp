@@ -27,11 +27,11 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
                     <a class="nav-link d-grid" href="{{ route('checkout') }}"><button class="btn btn-light"><i
-                                class="bi bi-basket"></i> Cart</button></a>
+                                class="bi bi-basket"></i></button></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link d-grid" href="{{ route('profil') }}"><button class="btn btn-light"><i
-                                class="bi bi-person-circle"></i> Profile</button></a>
+                                class="bi bi-person-circle"></i></button></a>
                 </li>
             </ul>
         </div>
